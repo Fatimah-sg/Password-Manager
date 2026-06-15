@@ -46,6 +46,8 @@ Password-Manager/
 
 ## Contact
 Created by Fatimah Sajjadali – feel free to reach out!
+Email: fatimahsajjadali@gmail.com
+LinkedIn: https://www.linkedin.com/in/fatimahsajjadali/
 
 ## License
 This project is licensed under the MIT License.
