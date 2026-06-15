@@ -31,6 +31,11 @@ All usernames and passwords are encrypted before being written to the file and d
 2. Run it:  
    `./PasswordManager`
 
+## Project Structure
+Password-Manager/
+├── PasswordManager.cpp   # Main source code
+├── README.md             # Project documentation
+└── LICENSE               # MIT license
 
 ## Future Improvements
 - Add stronger encryption (AES instead of XOR)
@@ -38,3 +43,9 @@ All usernames and passwords are encrypted before being written to the file and d
 - Store credentials in a secure database instead of a text file
 - Add password strength validation
 - Add unit tests for reliability
+
+## Contact
+Created by Fatimah – feel free to reach out!
+
+## License
+This project is licensed under the MIT License.
