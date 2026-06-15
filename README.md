@@ -45,7 +45,7 @@ Password-Manager/
 - Add unit tests for reliability
 
 ## Contact
-Created by Fatimah – feel free to reach out!
+Created by Fatimah Sajjadali – feel free to reach out!
 
 ## License
 This project is licensed under the MIT License.
