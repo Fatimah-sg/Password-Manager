@@ -18,7 +18,7 @@ When the program starts, it loads previously saved credentials and prompts the u
 All usernames and passwords are encrypted before being written to the file and decrypted when retrieved.
 
 ## Screenshot
-![Program Screenshot](password_manager_screenshot.png)
+![Program Screenshot](Password-Manager-Screenshot.png)
 
 ## Technologies Used
 - C++  
