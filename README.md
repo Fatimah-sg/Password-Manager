@@ -17,6 +17,9 @@ It allows users to store, retrieve, and delete login credentials while protectin
 When the program starts, it loads previously saved credentials and prompts the user to authenticate using the master password.  
 All usernames and passwords are encrypted before being written to the file and decrypted when retrieved.
 
+## Screenshot
+![Program Screenshot](password_manager_screenshot.png)
+
 ## Technologies Used
 - C++  
 - Crypto++ library (SHA‑256 hashing, hex encoding)  
@@ -27,3 +30,11 @@ All usernames and passwords are encrypted before being written to the file and d
    `g++ PasswordManager.cpp -o PasswordManager`
 2. Run it:  
    `./PasswordManager`
+
+
+## Future Improvements
+- Add stronger encryption (AES instead of XOR)
+- Add a graphical user interface (GUI)
+- Store credentials in a secure database instead of a text file
+- Add password strength validation
+- Add unit tests for reliability
