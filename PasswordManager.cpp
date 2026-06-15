@@ -1,3 +1,11 @@
+/*
+  Password Manager
+  Author: Fatimah
+  Description:
+  A secure C++ console-based password manager that uses a master password,
+  SHA-256 hashing, random password generation, and encrypted file storage.
+*/
+
 #include <iostream>
 #include <string>
 #include <fstream>
